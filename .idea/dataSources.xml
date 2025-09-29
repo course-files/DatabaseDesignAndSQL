@@ -8,11 +8,18 @@
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="123456@10.4.183.56.:3306" uuid="c5d80a67-8d54-4540-8525-94b899528a24">
+    <data-source source="LOCAL" name="123456@JASIRI66:3306" uuid="c5d80a67-8d54-4540-8525-94b899528a24">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.4.183.56:3306</jdbc-url>
+      <jdbc-url>jdbc:mysql://JASIRI66:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="aomondi@JASIRI66:3306" uuid="5f41bfbc-c98f-4156-aa2f-dce02eca75ea">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://JASIRI66:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
